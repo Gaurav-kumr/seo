@@ -1,0 +1,10 @@
+SEO Assignment
+Q1. What is SEO and explain the importance of SEO?
+Ans. The full form of SEO is Search Engine Optimization. SEO is basically to optimize your webpage for important and niche-related keywords and get relevant traffic by ranking your webpage on relevant keywords. For eg. For an IAS Coaching Institute in Delhi, "best IAS Coaching in Delhi" would be one of the important keywords to rank for traffic and conversion.
+
+Importance of SEO:
+1. It helps websites to get more traffic from search engines like Google, Bing, Yahoo, etc.
+2. By getting more traffic, it helps to increase the conversion rate by using funnel markets.
+3. User-friendly website
+4. To Increase the brand value by increasing the impression rate.
+5. It can decrease the bounce rate of the website.

@@ -1,0 +1,9 @@
+Benefits of using Meta Tags:
+
+1. For SEO: Meta tags like Titles & descriptions are for Google bots, to make them understand the key topics of the webpage. Along with this, it also helps in improving the position of SERPs.
+
+2. Browser Compatibility: Some meta tags, like the viewport meta tag, can help optimize a webpage for various screen sizes and devices, contributing to a better browsing experience on different platforms.
+
+3. Indexing and Crawling: Meta tags like "robots" meta tags provide instructions to search engine crawlers regarding how they should index and crawl a webpage. This can help control which parts of the website are visible to search engines and which are not.
+
+4. Accessibility: Meta tags can include information related to accessibility, such as specifying the language of the content or providing alternative text for images. This helps in making the content more accessible to a wider audience, including those using assistive technologies. 
